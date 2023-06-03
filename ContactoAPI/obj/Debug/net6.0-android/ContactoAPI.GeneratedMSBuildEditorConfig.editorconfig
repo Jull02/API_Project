@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ContactoAPI
+build_property.ProjectDir = D:\UDLA\Quinto Semestre\Progra IV\API Project\ContactoAPI\
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/ContactosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.ContactosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ContactosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ContactosPage.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/DetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.DetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = DetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = DetailsPage.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/NuevoContactoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.NuevoContactoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NuevoContactoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NuevoContactoPage.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/UDLA/Quinto Semestre/Progra IV/API Project/ContactoAPI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ContactoAPI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
